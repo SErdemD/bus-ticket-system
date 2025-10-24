@@ -29,7 +29,7 @@
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/serdemd/bus-ticket-system.git](https://github.com/serdemd/bus-ticket-system.git)
+    git clone https://github.com/serdemd/bus-ticket-system.git
     cd bus-ticket-system
     ```
 
